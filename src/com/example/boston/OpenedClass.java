@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.RadioGroup;
 import android.widget.RadioGroup.OnCheckedChangeListener;
 import android.widget.TextView;
-
+  
 public class OpenedClass extends Activity implements OnClickListener, OnCheckedChangeListener{
 TextView question, test;
 Button returnData;
